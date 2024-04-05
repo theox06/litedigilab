@@ -14,6 +14,9 @@ Roxel Gabriel Ekapradipta
 Acoustic Guitar :
 Andreas Nicolas Ginting
 
+Electric Guitar :
+Louie Wuwungan
+
 Drum :
 Nikita Patricia Mingouw
 
@@ -23,7 +26,7 @@ Kevin Immanuel Chang
 2nd Keyboard :
 Dave Immanuel
 
-Audio Visual Team :
+Livestream OBS, Lightning, camera, and sound :
 Audio Visual Team GBI Tapos
 
 Web Server Controller for livestream : 
@@ -31,8 +34,12 @@ Web Server Controller for livestream :
 2. Gerardus Garry
 3. Lin Sherlin
 
-Web Server Cybersecurity :
+Web Server Cybersecurity and encryption modular package :
 James Wigglewolf
+
+Sermon served by :
+Pdt. Lukas Karsono
+
 
 Special Thanks For :
 
