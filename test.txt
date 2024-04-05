@@ -11,14 +11,14 @@ Rohkris STPII Bogor
 Bass : 
 Roxel Gabriel Ekapradipta
 
-Electric Guitar :
+Acoustic Guitar :
 Andreas Nicolas Ginting
 
 Drum :
 Nikita Patricia Mingouw
 
 Keyboard :
-Kevin Immanuel Cheng
+Kevin Immanuel Chang
 
 Audio Visual Team :
 Audio Visual Team GBI Tapos
@@ -27,6 +27,30 @@ Web Server Controller for livestream :
 1. Theo Ginting
 2. Gerardus Garry
 3. Lin Sherlin
+
+Special Thanks For :
+
+Bapak PDT.Lukas Karsono (Gembala
+GBI Tapos Cibinong)
+
+Bapak PDT.Irawan Karsono (Wakil
+Gembala GBI Tapos Cibinong)
+
+Bapak Haoge Lase
+
+Bapak Vincetius (Rektor Kampus
+STPII Bogor
+
+Rumah Anak Spesial Mardi Waluya
+(atas dukungan moral dan ilmu
+kepada Theo dalam dunia IT, sehingga
+Theo dapat mengimplementasikan dan menggandeng
+teman-teman nya Garry dan Sherlin untuk sama-sama
+belajar web server)
+
+Indo Media Cyber Lab Jakarta
+(Server Security Expert)
+
 
 (C) 2024 LiteStudios Record.
 All right reserved to GBI Tapos and STPII Bogor
