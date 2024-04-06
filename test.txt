@@ -35,7 +35,7 @@ Web Server Controller for livestream :
 3. Lin Sherlin
 
 Web Server Cybersecurity and encryption modular package :
-James Wigglewolf
+James Wigglesworth
 
 Sermon served by :
 Pdt. Lukas Karsono
